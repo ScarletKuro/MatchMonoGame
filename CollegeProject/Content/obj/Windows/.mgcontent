@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/1.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/2.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/3.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/4.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/5.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/6.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/7.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/8.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/9.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/10.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/11.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/12.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/13.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/14.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/15.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/16.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/17.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/18.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/19.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/20.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/21.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/22.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/23.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/24.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/25.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/background.jpg</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/home.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/mainBack.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/quit.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/scoreboard.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/startButton.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/scoreFont.spritefont</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/myFont.spritefont</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/AButton.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/AlphaGradient.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/BackButton.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Cancel.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Collapse.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Expand.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/gradient.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/hourglass.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/MenuMove.wav</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/MenuSelect.wav</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Potion3a.png</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Fonts/ArialBlack10.spritefont</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Fonts/ArialBlack14.spritefont</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Fonts/ArialBlack24.spritefont</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Fonts/ArialBlack36.spritefont</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Fonts/ArialBlack48.spritefont</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Fonts/ArialBlack48Spanish.spritefont</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Fonts/ArialBlack72.spritefont</File>
+    <File>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/Fonts/ArialBlack96.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>

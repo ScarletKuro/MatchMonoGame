@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/MenuMove.wav</SourceFile>
+  <SourceTime>2017-05-04T16:51:11-07:00</SourceTime>
+  <DestFile>C:/Users/Administrator/Documents/Visual Studio 2017/Projects/CollegeProject/CollegeProject/Content/bin/Windows/MenuMove.xnb</DestFile>
+  <DestTime>2017-05-18T18:12:11.9742847-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2017-05-16T06:15:34-07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2017-05-16T06:15:34-07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
